@@ -22,6 +22,12 @@ const mainNavItems: NavItem[] = [
         href: dashboard(),
         icon: LayoutGrid,
     },
+
+    {
+        title: 'Data Siswa',
+        href: '/admin/data-siswa',
+        icon: Folder,
+    }
 ];
 
 const footerNavItems: NavItem[] = [
